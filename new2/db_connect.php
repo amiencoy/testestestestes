@@ -1,6 +1,6 @@
 <?php 
  
-$localhost = "testestes.database.windows.net"; 
+$localhost = "xperimental@testestes.mysql.database.azure.com"; 
 $username = "xperimental"; 
 $password = "Bandar05"; 
 $dbname = "mahasiswa"; 
