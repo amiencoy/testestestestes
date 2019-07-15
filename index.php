@@ -36,7 +36,7 @@ $query = "SELECT *FROM mahasiswa";
         </thead>
         <tbody>
             <?php
-            $sql = "SELECT * FROM mahasiswa";
+            $sql = "SELECT * FROM [dbo].[mahasiswa]";
             $result = $connect->query($sql);
  
             
