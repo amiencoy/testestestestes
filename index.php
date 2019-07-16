@@ -1,6 +1,6 @@
 <?php 
 require_once 'new2/db_connect.php';
-$query = "SELECT *FROM mahasiswa";
+$query = "SELECT *FROM [dbo].[mahasiswa]";
 ?>
  
 <!DOCTYPE html>
